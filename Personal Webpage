@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grace Wang - Supply Chain Diary</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5dc; /* Light beige background */
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #d3c4a4; /* Warm, earthy beige */
+            padding: 10px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            color: #4b3832;
+        }
+        nav {
+            background-color: #e0d9c8;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #4b3832;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            overflow: auto;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #d3c4a4;
+            color: #4b3832;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Supply Chain Diary</h1>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#education">Education</a>
+        <a href="#career">Career Development</a>
+        <a href="#contact">Contact Information</a>
+        <a href="#blog">Blog</a>
+    </nav>
+    <div class="container">
+        <section id="about">
+            <h2>About</h2>
+            <p>Hello! My name is Grace Wang. Welcome to my Supply Chain Diary. This page is dedicated to my journey, growth, and development during my US Study Abroad experience.</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <p>Details of my projects will be shared here.</p>
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <p>I graduated from The University of Texas at Dallas in Supply Chain Management & Analytics.</p>
+        </section>
+        <section id="career">
+            <h2>Career Development</h2>
+            <p>I started working at Amazon as an Area Manager, Operations in February 2024. I have also worked at Dallas Fort Worth International Airport as an Associate Air Service Development Analyst - Global Strategy & Development Cargo Business, and at Soonest Express Inc. as a Commercial Coordinator and Logistics Coordinator.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact Information</h2>
+            <p>You can reach me at my email: <a href="mailto:gracewtzn@gmail.com">gracewtzn@gmail.com</a></p>
+        </section>
+        <section id="blog">
+            <h2>Blog</h2>
+            <p>Insights and stories about my US Study Abroad journey will be posted here.</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Grace Wang - Supply Chain Diary</p>
+    </footer>
+</body>
+</html>
